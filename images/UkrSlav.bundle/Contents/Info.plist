@@ -5,15 +5,19 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.apple.keyboardlayout.ruslav</string>
 	<key>CFBundleName</key>
-	<string>RusLav</string>
+	<string>UkrSlav</string>
 	<key>CFBundleVersion</key>
-	<string>1.2</string>
-	<key>KLInfo_ruslav</key>
+	<string>1.0</string>
+	<key>KLInfo_ukrslav</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
 		<key>TISInputSourceID</key>
-		<string>com.apple.keyboardlayout.ruslav.ruslav</string>
+		<string>com.apple.keyboardlayout.ruslav.ukrslav</string>
 		<key>TISIntendedLanguage</key>
-		<string>ru</string>
+		<string>uk</string>
 	</dict>
 </dict>
 </plist>
